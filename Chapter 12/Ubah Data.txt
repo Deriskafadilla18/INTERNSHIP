@@ -1,0 +1,2 @@
+source code ini diperlukan untuk buku pada halaman 76              
+yang berisi pembuatan sebuah activity hapus data beserta APInya

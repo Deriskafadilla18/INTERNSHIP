@@ -1,0 +1,2 @@
+source code ini diperlukan untuk buku pada halaman 71
+yang berisi pembuatan sebuah data class untuk memanggil secara keseluruhan

@@ -1,0 +1,2 @@
+source code ini diperlukan untuk buku pada halaman 59
+yang berisi gradle, manifest, penambahan icon pada drawable 

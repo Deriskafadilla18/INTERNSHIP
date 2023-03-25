@@ -1,0 +1,2 @@
+source code ini diperlukan untuk buku pada halaman 60 
+yang berisi tentang pembuatan splashscreen pada java dan layout 
